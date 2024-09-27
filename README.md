@@ -6,3 +6,6 @@ Controlling of nearly all german signals is possible, block control can be used 
 For more details please refer to the manual [Signal-Z.pdf](Signal-Z.pdf).<br>
 
 Two kinds of PVB are available, one of it fits into 'Merscheider Schacht', corresponding informations can be found here: https://kruemelsoft.hier-im-netz.de/schacht.htm.
+
+### original
+Signal-Z based on the idea of Peter Kopiske "Decoder für Tageslichtausfahrsignal - Signal geben" published in MIBA 2009 Issue 11 pages 86 & 87
