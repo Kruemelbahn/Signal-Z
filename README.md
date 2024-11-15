@@ -7,7 +7,7 @@ For more details please refer to the manual [Signal-Z.pdf](Signal-Z.pdf).<br>
 
 Two kinds of PVB are available, one of it fits into 'Merscheider Schacht', corresponding informations can be found here:
 - https://kruemelsoft.hier-im-netz.de/schacht.htm
-- or here: [Krümelbahn Info 12 - Merscheider Schacht.pdf] (https://github.com/Kruemelbahn/Infoletter/blob/main/Kr%C3%BCmelbahn%20Info%2012%20-%20Merscheider%20Schacht.pdf)
+- or here: [Krümelbahn Info 12 - Merscheider Schacht.pdf](https://github.com/Kruemelbahn/Infoletter/blob/main/Kr%C3%BCmelbahn%20Info%2012%20-%20Merscheider%20Schacht.pdf)
 
 ### original
 Signal-Z based on the idea of Peter Kopiske "Decoder für Tageslichtausfahrsignal - Signal geben" published in MIBA 2009 Issue 11 pages 86 & 87
